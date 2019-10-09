@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bzu.fixprovider.mapper.FixMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="cn.bzu.fixprovider.pojo.Fix">
+        <id column="fix_id" property="fixId" />
+        <result column="fix_peo" property="fixPeo" />
+        <result column="fix_room" property="fixRoom" />
+        <result column="fix_date" property="fixDate" />
+        <result column="fix_info" property="fixInfo" />
+        <result column="if_finish" property="ifFinish" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        fix_id AS fixId, fix_peo AS fixPeo, fix_room AS fixRoom, fix_date AS fixDate, fix_info AS fixInfo, if_finish AS ifFinish
+    </sql>
+
+</mapper>

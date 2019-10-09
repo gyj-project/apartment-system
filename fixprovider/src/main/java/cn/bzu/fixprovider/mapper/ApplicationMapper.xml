@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bzu.fixprovider.mapper.ApplicationMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="cn.bzu.fixprovider.pojo.Application">
+        <id column="app_id" property="appId" />
+        <result column="emp_id" property="empId" />
+        <result column="app_info" property="appInfo" />
+        <result column="app_time" property="appTime" />
+        <result column="if_read" property="ifRead" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        app_id AS appId, emp_id AS empId, app_info AS appInfo, app_time AS appTime, if_read As ifRead
+    </sql>
+
+</mapper>

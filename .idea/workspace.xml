@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f1dafd1-ee25-4614-901d-687d805e5155" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/manageconsumer/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/liveprovider/target/" />
+    <ignored path="$PROJECT_DIR$/loginprovider/target/" />
+    <ignored path="$PROJECT_DIR$/fixprovider/target/" />
+    <ignored path="$PROJECT_DIR$/recordprovider/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="apartmentsystem" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1336">
+              <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/service/impl/EmployeeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="162" selection-start-line="162" selection-end-line="162" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/EmployeeMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="60" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/EmployeeMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/pojo/Change.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+                <element signature="e#1070#1071#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1141#1142#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#1238#1239#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1307#1308#0" expanded="true" />
+                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1516#1517#0" expanded="true" />
+                <element signature="e#1556#1557#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/pojo/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/ManageconsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/db/MpGenerator.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/FixproviderApplication.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/pojo/Msg.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/pojo/Application.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/mapper/ApplicationMapper.xml" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/pojo/Application.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/pojo/LoginInfo.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/mapper/ApplicationMapper.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/service/ApplicationService.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/service/impl/ApplicationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/pojo/Fix.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/mapper/FixMapper.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/service/impl/FixServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/service/FixService.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/pojo/Fix.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/controller/ApplicationController.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/controller/FixController.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/pojo/Admin.java" />
+        <option value="$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/loginprovider/src/main/java/cn/bzu/loginprovider/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/loginprovider/src/main/java/cn/bzu/loginprovider/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/loginprovider/src/main/java/cn/bzu/loginprovider/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/loginprovider/src/main/java/cn/bzu/loginprovider/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/controller/ApplicationController.java" />
+        <option value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/controller/FixController.java" />
+        <option value="$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/pom.xml" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/db/MpGenerator.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/FixMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/RecordproviderApplication.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/AdminMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/ApartmentMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/ApplicationMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/BedMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/ChangeMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/pojo/Fix.java" />
+        <option value="$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/controller/FixController.java" />
+        <option value="$PROJECT_DIR$/liveprovider/pom.xml" />
+        <option value="$PROJECT_DIR$/liveprovider/src/test/java/cn/bzu/liveprovider/LiveproviderApplicationTests.java" />
+        <option value="$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/service/impl/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/pojo/Change.java" />
+        <option value="$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/Change.xml" />
+        <option value="$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapperImpl.java" />
+        <option value="$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapper.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <option name="alwaysShowArtifactId" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fixprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fixprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="liveprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="liveprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="loginprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="loginprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="manageconsumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="manageconsumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="recordprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="recordprovider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="liveprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="bzu" type="462c0819:PsiDirectoryNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="manageconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recordprovider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apartmentsystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recordprovider" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570523522411" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/mapper/AdminMapper.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaproject\apartmentsystem\fixprovider\src\main\java\cn\bzu\fixprovider\mapper" />
+      <recent name="D:\javaproject\apartmentsystem\liveprovider\src\main\java\cn\bzu\liveprovider\mapper" />
+      <recent name="D:\javaproject\apartmentsystem\liveprovider\src\main\java\cn\bzu\liveprovider\dao" />
+      <recent name="D:\javaproject\apartmentsystem\liveprovider\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.bzu.liveprovider" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.bzu.liveprovider.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.bzu.recordprovider.db" />
+      <recent name="cn.bzu.loginprovider.config" />
+      <recent name="cn.bzu.manageconsumer.pojo" />
+      <recent name="cn.bzu.fixprovider.config" />
+      <recent name="cn.bzu.manageconsumer.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaproject\apartmentsystem\liveprovider\src\main\java\cn\bzu\liveprovider\mapper" />
+      <recent name="D:\javaproject\apartmentsystem\recordprovider\src\main\java\cn\bzu\recordprovider" />
+      <recent name="D:\javaproject\apartmentsystem\recordprovider\src\main\resources" />
+      <recent name="D:\javaproject\apartmentsystem\loginprovider\src\main\java\cn\bzu\loginprovider" />
+      <recent name="D:\javaproject\apartmentsystem\fixprovider\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="MpGenerator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bzu.loginprovider.db.MpGenerator" />
+      <module name="loginprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bzu.loginprovider.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpGenerator (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bzu.fixprovider.db.MpGenerator" />
+      <module name="fixprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bzu.fixprovider.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpGenerator (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bzu.recordprovider.db.MpGenerator" />
+      <module name="recordprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bzu.recordprovider.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bzu.liveprovider.db.MpGenerator" />
+      <module name="liveprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bzu.liveprovider.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiveproviderApplicationTests.insertData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liveprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bzu.liveprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.bzu.liveprovider" />
+      <option name="MAIN_CLASS_NAME" value="cn.bzu.liveprovider.LiveproviderApplicationTests" />
+      <option name="METHOD_NAME" value="insertData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bzu.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixproviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fixprovider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bzu.fixprovider.FixproviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiveproviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liveprovider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bzu.liveprovider.LiveproviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginproviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="loginprovider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bzu.loginprovider.LoginproviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageconsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manageconsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bzu.manageconsumer.ManageconsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordproviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="recordprovider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bzu.recordprovider.RecordproviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MpGenerator (3)" />
+        <item itemvalue="Application.MpGenerator (2)" />
+        <item itemvalue="Application.MpGenerator (1)" />
+        <item itemvalue="JUnit.LiveproviderApplicationTests.insertData" />
+        <item itemvalue="Application.MpGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f1dafd1-ee25-4614-901d-687d805e5155" name="Default Changelist" comment="" />
+      <created>1569765289586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569765289586</updated>
+      <workItem from="1569765293634" duration="3336000" />
+      <workItem from="1569768710291" duration="2202000" />
+      <workItem from="1569804742198" duration="24461000" />
+      <workItem from="1569898415657" duration="5343000" />
+      <workItem from="1569983540785" duration="14407000" />
+      <workItem from="1570083812134" duration="12116000" />
+      <workItem from="1570109749179" duration="2329000" />
+      <workItem from="1570158639197" duration="3499000" />
+      <workItem from="1570240721008" duration="12055000" />
+      <workItem from="1570339707179" duration="5905000" />
+      <workItem from="1570419572581" duration="3099000" />
+      <workItem from="1570445866898" duration="10763000" />
+      <workItem from="1570457848898" duration="732000" />
+      <workItem from="1570494957159" duration="1507000" />
+      <workItem from="1570497362904" duration="1663000" />
+      <workItem from="1570499862236" duration="5250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LiveproviderApplicationTests_insertData - 2019.09.30 at 13h 28m 08s.xml">
+      <configuration name="LiveproviderApplicationTests.insertData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108667000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.28351206" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5007072" side_tool="true" weight="0.34919572" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.9533239" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.9575672" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.9533239" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.19235925" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.9533239" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.9533239" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/loginprovider/src/main/java/cn/bzu/loginprovider/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/controller/ApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/controller/FixController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/controller/ApartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/controller/BedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/BedMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/db/MpGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixprovider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/FixMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/RecordproviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/ApartmentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/ApplicationMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/BedMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/ChangeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/mapper/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/cn.bzu:fixprovider:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>cn.bzu:fixprovider:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.bzu:fixprovider:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.9.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.9.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.9.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.9.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2/org.apache.logging.log4j:log4j-api:jar:2.11.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.28</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.1.9.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.9.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.9.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.9.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.26</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final/org.jboss.logging:jboss-logging:jar:3.3.3.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.17.Final/com.fasterxml:classmate:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework:spring-web:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework:spring-web:jar:5.1.10.RELEASE/org.springframework:spring-beans:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework:spring-webmvc:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework:spring-webmvc:jar:5.1.10.RELEASE/org.springframework:spring-aop:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework:spring-webmvc:jar:5.1.10.RELEASE/org.springframework:spring-context:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.9.RELEASE/org.springframework:spring-webmvc:jar:5.1.10.RELEASE/org.springframework:spring-expression:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.1.1.RELEASE/org.springframework.security:spring-security-crypto:jar:5.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.1.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.60/org.bouncycastle:bcprov-jdk15on:jar:1.60</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.1.9.RELEASE/io.micrometer:micrometer-core:jar:1.1.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.1.9.RELEASE/io.micrometer:micrometer-core:jar:1.1.7/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-actuator:jar:2.1.9.RELEASE/io.micrometer:micrometer-core:jar:1.1.7/org.latencyutils:LatencyUtils:jar:2.0.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.9.RELEASE/org.freemarker:freemarker:jar:2.3.29</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.9.RELEASE/org.springframework:spring-context-support:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-hystrix:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-hystrix:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-hystrix:jar:2.1.1.RELEASE/org.springframework.boot:spring-boot-starter-aop:jar:2.1.9.RELEASE/org.aspectj:aspectjweaver:jar:1.9.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/org.codehaus.jettison:jettison:jar:1.3.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/org.codehaus.jettison:jettison:jar:1.3.7/stax:stax-api:jar:1.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/commons-jxpath:commons-jxpath:jar:1.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/joda-time:joda-time:jar:2.10.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/org.antlr:stringtemplate:jar:3.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/com.google.guava:guava:jar:14.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/org.apache.commons:commons-math:jar:2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/javax.ws.rs:jsr311-api:jar:1.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.servo:servo-core:jar:0.12.21</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.netflix.servo:servo-core:jar:0.12.21/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.sun.jersey:jersey-core:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.sun.jersey:jersey-client:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/org.apache.httpcomponents:httpclient:jar:4.5.10</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/org.apache.httpcomponents:httpclient:jar:4.5.10/org.apache.httpcomponents:httpcore:jar:4.4.12</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/org.apache.httpcomponents:httpclient:jar:4.5.10/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.google.inject:guice:jar:4.1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.google.inject:guice:jar:4.1.0/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.google.inject:guice:jar:4.1.0/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.github.vlsi.compactmap:compactmap:jar:1.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.9.8/com.github.vlsi.compactmap:compactmap:jar:1.2.1/com.github.andrewoma.dexx:dexx-collections:jar:0.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.sun.jersey:jersey-servlet:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.sun.jersey:jersey-server:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.9.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6/com.google.code.findbugs:jsr305:jar:3.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.6/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.10</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.10/xmlpull:xmlpull:jar:1.1.3.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:2.1.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.10/xpp3:xpp3_min:jar:1.1.4c</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-ribbon:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-archaius:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.1.RELEASE/commons-configuration:commons-configuration:jar:1.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-archaius:jar:2.1.1.RELEASE/commons-configuration:commons-configuration:jar:1.8/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/io.reactivex:rxnetty-servo:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.ribbon:ribbon-transport:jar:2.3.0/com.google.guava:guava:jar:16.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.netflix.hystrix:hystrix-core:jar:1.5.18</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/io.reactivex:rxnetty:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.3.0/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.3.0/com.netflix.netflix-commons:netflix-commons-util:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.3.0/com.google.guava:guava:jar:16.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:2.1.1.RELEASE/io.reactivex:rxjava:jar:1.3.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:2.1.1.RELEASE/com.netflix.ribbon:ribbon-eureka:jar:2.3.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.9.RELEASE/com.zaxxer:HikariCP:jar:3.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.9.RELEASE/org.springframework:spring-jdbc:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.9.RELEASE/org.springframework:spring-jdbc:jar:5.1.10.RELEASE/org.springframework:spring-tx:jar:5.1.10.RELEASE</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.17</node>
+            <node x="" y="">org.apache.velocity:velocity-engine-core:jar:2.0</node>
+            <node x="" y="">org.apache.velocity:velocity-engine-core:jar:2.0/org.apache.commons:commons-lang3:jar:3.8.1</node>
+            <node x="" y="">org.apache.velocity:velocity-engine-core:jar:2.0/org.slf4j:slf4j-api:jar:1.7.28</node>
+            <node x="" y="">org.freemarker:freemarker:jar:2.3.23</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.9</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis:jar:3.4.6</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis-spring:jar:1.3.2</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.5</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/com.github.pagehelper:pagehelper:jar:5.1.4</node>
+            <node x="" y="">com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.5/com.github.pagehelper:pagehelper:jar:5.1.4/com.github.jsqlparser:jsqlparser:jar:1.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0/com.baomidou:mybatis-plus:jar:2.2.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0/com.baomidou:mybatis-plus:jar:2.2.0/com.baomidou:mybatis-plus-support:jar:2.2.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0/com.baomidou:mybatis-plus:jar:2.2.0/com.baomidou:mybatis-plus-core:jar:2.2.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0/com.baomidou:mybatis-plus:jar:2.2.0/com.baomidou:mybatis-plus-core:jar:2.2.0/com.github.jsqlparser:jsqlparser:jar:1.1</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0/com.baomidou:mybatis-plus:jar:2.2.0/com.baomidou:mybatis-plus-generate:jar:2.2.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:2.2.0/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.9.RELEASE</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.9/com.fasterxml.jackson.core:jackson-core:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.9/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.9/com.fasterxml.woodstox:woodstox-core:jar:5.0.3</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.9</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider:jar:2.9.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="" y="">log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-test:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.9.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.assertj:assertj-core:jar:3.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.mockito:mockito-core:jar:2.23.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy:jar:1.9.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.mockito:mockito-core:jar:2.23.4/net.bytebuddy:byte-buddy-agent:jar:1.9.16</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.mockito:mockito-core:jar:2.23.4/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.springframework:spring-core:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.springframework:spring-core:jar:5.1.10.RELEASE/org.springframework:spring-jcl:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.springframework:spring-test:jar:5.1.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.9.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.022212618841832326" x="5775.0" y="1127.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixprovider/src/main/java/cn/bzu/fixprovider/pojo/Fix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/controller/FixController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recordprovider/src/main/java/cn/bzu/recordprovider/pojo/Fix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/liveprovider.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3234" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/test/java/cn/bzu/liveprovider/LiveproviderApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/liveprovider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginprovider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/LiveproviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixprovider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginprovider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageconsumer/src/main/java/cn/bzu/manageconsumer/ManageconsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1336">
+          <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/service/impl/EmployeeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/pojo/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/pojo/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/EmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liveprovider/src/main/java/cn/bzu/liveprovider/mapper/ChangeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47357723" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>liveprovider</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.47357723" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

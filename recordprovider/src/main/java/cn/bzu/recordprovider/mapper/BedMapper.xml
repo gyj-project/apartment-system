@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bzu.recordprovider.mapper.BedMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="cn.bzu.recordprovider.pojo.Bed">
+        <id column="bed_id" property="bedId" />
+        <result column="bed_no" property="bedNo" />
+        <result column="apart_id" property="apartId" />
+        <result column="if_peo" property="ifPeo" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        bed_id AS bedId, bed_no AS bedNo, apart_id AS apartId, if_peo AS ifPeo
+    </sql>
+
+</mapper>

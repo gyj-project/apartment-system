@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bzu.liveprovider.mapper.ChangeMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="cn.bzu.liveprovider.pojo.Change">
+        <id column="change_id" property="changeId"/>
+        <result column="emp_id" property="empId" />
+        <result column="update_time" property="updateTime"/>
+        <result column="before_apart" property="beforeApart"/>
+        <result column="after_apart" property="afterApart"/>
+        <result column="before_bed" property="beforeBed"/>
+        <result column="after_bed" property="afterBed"/>
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        apart_id AS apartId
+    </sql>
+
+</mapper>

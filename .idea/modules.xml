@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixprovider/fixprovider.iml" filepath="$PROJECT_DIR$/fixprovider/fixprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liveprovider/liveprovider.iml" filepath="$PROJECT_DIR$/liveprovider/liveprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginprovider/loginprovider.iml" filepath="$PROJECT_DIR$/loginprovider/loginprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manageconsumer/manageconsumer.iml" filepath="$PROJECT_DIR$/manageconsumer/manageconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recordprovider/recordprovider.iml" filepath="$PROJECT_DIR$/recordprovider/recordprovider.iml" />
+    </modules>
+  </component>
+</project>
